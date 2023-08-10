@@ -1,0 +1,5 @@
+the average length of the code is : 3.759391e+00
+Entropy is: 3.715848e+00
+Efficiency is: 9.884175e+01
+Compression ratio is: 2.128004e+00
+Relative data redundancy is: 5.300761e+01
