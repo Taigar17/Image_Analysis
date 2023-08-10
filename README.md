@@ -1,6 +1,6 @@
 # Image_Analysis_2022
 
-Image Compression
+Image Compression Demonstration using MATLAB.
 
 ## Getting started
 
